@@ -1,0 +1,15 @@
+.div-menu {
+  background-color: pink;
+}
+
+.div-menu .div-menu-ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.div-menu .div-menu-ul li {
+  padding: 10px;
+}
